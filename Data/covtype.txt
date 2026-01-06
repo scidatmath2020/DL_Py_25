@@ -1,0 +1,3 @@
+covtype: https://drive.google.com/file/d/19523FoSMboFjICiS8clDF7lhhEUsXFTJ/view?usp=sharing
+covtype_nuevos: https://drive.google.com/file/d/1zcrAtyGGHyC9ct4fOC8gQEj2-H0WpyLk/view?usp=sharing
+covtype_nuevos_target: https://docs.google.com/spreadsheets/d/1fhSQY2wovFbkmEGVx2JK58ORYw_YE8sf/edit?usp=sharing&ouid=112028458879612327640&rtpof=true&sd=true
